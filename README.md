@@ -2,6 +2,10 @@
 
 some text
 
-test 2
+# Subheader 
 
-bop
+watch tutorial on youtube 
+
+# Local Development
+
+Open index.html in your browser
